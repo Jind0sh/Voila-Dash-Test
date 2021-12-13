@@ -1,0 +1,1 @@
+web: voila --no-browser --enable_nbextensions=True notebooks/"Simple Reddit Dash - COVID 19.ipynb"
