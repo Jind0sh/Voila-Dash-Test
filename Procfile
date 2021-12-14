@@ -1,1 +1,1 @@
-web: voila --no-browser --enable_nbextensions=True notebooks/"Simple Reddit Dash - COVID 19.ipynb"
+web: voila --no-browser --theme='dark' --enable_nbextensions=True notebooks/"Simple Reddit Dash - COVID 19.ipynb"
